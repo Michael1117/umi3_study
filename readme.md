@@ -37,3 +37,6 @@ E:\code\umi3\node_modules\umi\bin\umi.js
     ]
 }
 ```
+
+git remote add origin https://github.com/Michael1117/umi3_study.git
+git push -u origin dev
